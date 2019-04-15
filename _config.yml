@@ -2,7 +2,7 @@
 ios_app_id                                : 997079492                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
+playstore_link                            :  https://play.google.com/store/apps/details?id=com.memeteo.weather                                         # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
@@ -31,17 +31,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Worldwide reports
-    description                           : With MeMeteo you always will be aware about situation outside wherever you are. We are provide forecast to within building.
+  - title                                 : Most accurate forecast
+    description                           : Accurate right to your house. Anywhere in the world.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Realtime map
-    description                           : The map allows you track precipitation movement in real-time on your screen.
+  - title                                 : Precipiation map
+    description                           : Bad weather won't take you by surprise anymore.
 
     fontawesome_icon_name                 : globe-americas
 
   - title                                 : Next 24 hours & Weekly Forecast
-    description                           : We are providing detailed forecast with temperature, pressure, wind direction, humidity and weather status. This will help you plan your tasks and would not caught unaware.
+    description                           : A detailed forecast for every city with data such as temperature, pressure, wind direction, etc.
     fontawesome_icon_name                 : sync
 
 # Theme Settings
