@@ -41,7 +41,7 @@ features                                  :
     fontawesome_icon_name                 : globe-americas
 
   - title                                 : Next 24 hours & Weekly Forecast
-    description                           : A detailed forecast for every city with data such as temperature, pressure, wind direction, etc.
+    description                           : A detailed forecast for every city.
     fontawesome_icon_name                 : sync
 
 # Theme Settings
